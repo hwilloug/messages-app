@@ -1,1 +1,7 @@
-# nestjs-cli-hello-world
+# messages-app
+
+Created using:
+```
+nest new messages
+```
+
